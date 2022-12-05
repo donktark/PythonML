@@ -1,0 +1,131 @@
+1669734747953	geckodriver	INFO	Listening on 127.0.0.1:5743
+1669734751027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5744" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofilesXQ8ws"
+1669734751448	Marionette	INFO	Marionette enabled
+1669734751454	Marionette	INFO	Listening on port 5759
+Read port: 5759
+WebDriver BiDi listening on ws://127.0.0.1:5744
+1669734751572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofilesXQ8ws\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5744/devtools/browser/4a956af9-99f4-493d-a37f-b800926478b9
+1669734763170	Marionette	INFO	Stopped listening on port 5759
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669735293372	geckodriver	INFO	Listening on 127.0.0.1:6041
+1669735296423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofiledYCUPQ"
+1669735296717	Marionette	INFO	Marionette enabled
+1669735296723	Marionette	INFO	Listening on port 6053
+Read port: 6053
+WebDriver BiDi listening on ws://127.0.0.1:6042
+1669735296834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofiledYCUPQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6042/devtools/browser/6a2c1d1f-420d-4290-9365-8399c7a7db16
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+JavaScript error: https://webinfo.dankook.ac.kr/sso/logout.jsp?logout=1, line 4: SyntaxError: expected expression, got '<'
+1669735321889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://portal.dankook.ac.kr/eXPortal/js/validator.js, line 509: unreachable code after return statement
+1669735334148	Marionette	INFO	Stopped listening on port 6053
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669735336448	geckodriver	INFO	Listening on 127.0.0.1:6110
+1669735339501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileinpH7V"
+1669735339796	Marionette	INFO	Marionette enabled
+1669735339801	Marionette	INFO	Listening on port 6125
+Read port: 6125
+WebDriver BiDi listening on ws://127.0.0.1:6111
+1669735339942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileinpH7V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6111/devtools/browser/201a9473-ffc2-45ec-882d-c9d0ff1fc71a
+1669735351655	Marionette	INFO	Stopped listening on port 6125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669736136016	geckodriver	INFO	Listening on 127.0.0.1:6558
+1669736139089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofile4nk79j"
+1669736139382	Marionette	INFO	Marionette enabled
+1669736139387	Marionette	INFO	Listening on port 6570
+Read port: 6570
+WebDriver BiDi listening on ws://127.0.0.1:6559
+1669736139488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofile4nk79j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6559/devtools/browser/495f5653-b762-42ea-ada0-f1634df51306
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+1669736187608	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669736417404	Marionette	INFO	Stopped listening on port 6570
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "6647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileqscJfT"
+1669736198992	Marionette	INFO	Marionette enabled
+1669736198998	Marionette	INFO	Listening on port 6658
+Read port: 6658
+WebDriver BiDi listening on ws://127.0.0.1:6647
+1669736199101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileqscJfT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6647/devtools/browser/b2e63ae8-a16f-4818-83e4-42f6196c0387
+1669736206160	Marionette	INFO	Stopped listening on port 6658
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669736492547	geckodriver	INFO	Listening on 127.0.0.1:6897
+1669736495601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileRF30ok"
+1669736495963	Marionette	INFO	Marionette enabled
+1669736495968	Marionette	INFO	Listening on port 6909
+WebDriver BiDi listening on ws://127.0.0.1:6898
+Read port: 6909
+1669736496160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileRF30ok\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6898/devtools/browser/29ddfbaa-941c-4dad-b4c4-4dd541c373ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+1669736511505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669736535264	Marionette	INFO	Stopped listening on port 6901669736535470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofilebfJdOE"
+1669736535772	Marionette	INFO	Marionette enabled
+1669736535777	Marionette	INFO	Listening on port 7001
+Read port: 7001
+WebDriver BiDi listening on ws://127.0.0.1:6990
+1669736535884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofilebfJdOE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6990/devtools/browser/f41ea592-1539-4583-8e8c-ac985c74f726
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+1669736553254	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669736662003	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1669738517181	Marionette	INFO	Stopped listening on port 7001669738519115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7520" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofile9mVuv7"
+1669738519408	Marionette	INFO	Marionette enabled
+1669738519414	Marionette	INFO	Listening on port 7532
+Read port: 7532
+WebDriver BiDi listening on ws://127.0.0.1:7520
+1669738519519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofile9mVuv7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7520/devtools/browser/4acd702d-e765-49ca-ab1c-e669c96137c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+1669738531519	Marionette	INFO	Stopped listening on port 7532
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669738575986	geckodriver	INFO	Listening on 127.0.0.1:7710
+1669738579040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileP5lCpV"
+1669738579321	Marionette	INFO	Marionette enabled
+1669738579326	Marionette	INFO	Listening on port 7723
+Read port: 7723
+WebDriver BiDi listening on ws://127.0.0.1:7711
+1669738579426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileP5lCpV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7711/devtools/browser/36273d01-a8af-4a76-bcb7-944e79a3958f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+1669738596831	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669738746344	Marionette	INFO	Stopped listening on port 7723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669738747952	geckodriver	INFO	Listening on 127.0.0.1:7832
+1669738751020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileKoG9Fa"
+1669738751377	Marionette	INFO	Marionette enabled
+1669738751382	Marionette	INFO	Listening on port 7844
+WebDriver BiDi listening on ws://127.0.0.1:7833
+Read port: 7844
+1669738751576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\32197453\\AppData\\Local\\Temp\\rust_mozprofileKoG9Fa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7833/devtools/browser/4a3dfdc8-0d43-4bc7-b10c-2fad6f9801c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://webinfo.dankook.ac.kr."
+1669738765176	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669738892026	Marionette	INFO	Stopped listening on port 7844
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
