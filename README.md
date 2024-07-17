@@ -1,4 +1,4 @@
-# Donktark.Python
+# PythonML
 ### Dacon 경진대회
 AI_vs_Human_텍스트_판별_해커톤   
 데이콘 Basic 전화 해지 여부 분류 AI 경진대회    
