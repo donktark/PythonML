@@ -1,6 +1,6 @@
 # Donktark.Python
 ### Dacon 경진대회
-AI_vs_Human_텍스트_판별_해커톤 <p>
+AI_vs_Human_텍스트_판별_해커톤   
 데이콘 Basic 전화 해지 여부 분류 AI 경진대회 <p>
 데이콘 Basic 칼로리 소모량 예측 AI 경진대회_제출용 <p>
 월간 데이콘 생체 광학 데이터 분석 AI 경진대회 <p>
